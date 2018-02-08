@@ -5,7 +5,7 @@
 #define DHTPIN 5
 #define DHTTYPE DHT11
 const char* ssid = "malware";
-const char* password = "simlifesimlife";
+const char* password = "password";
 const char* influxdb_host = "10.0.0.20";
 const int influxdb_udp_port = 8888;
 
